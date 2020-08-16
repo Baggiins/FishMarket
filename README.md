@@ -1,3 +1,5 @@
+_WORK IN PROGRESS_
+
 # FishMarket Project (fr)
 
 Ce projet a été effectué via l'IDE "Eclipse", j'expliquerai donc spécifiquement les manipulations à effectuer pour faire fonctionner clui-ci sans problème.
